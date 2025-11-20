@@ -1,8 +1,5 @@
 # Aplikasi Manajemen Vape Store (Java)
 
-## ⚠️ Peringatan
-**Project Aplikasi Vape Store ini masih dalam tahap pengembangan dan belum full rilis.**
-
 ## Tentang Aplikasi
 Aplikasi Vape Store ini dirancang untuk memanajemen penjualan dan barang pada toko untuk 
 memudahkan pemilik usaha dalam membuat pembukuan. Aplikasi desktop ini dapat 
